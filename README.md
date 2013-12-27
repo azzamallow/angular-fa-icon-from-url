@@ -1,7 +1,9 @@
 angular-fa-icon-from-url
 ========================
 
-An angularjs directive which adds font awesome icon classes to your element based on the url provided
+An angularjs directive which adds font awesome icon classes to your element based on the url provided.
+
+This directive will only add css classes to the element, you will have to include font awesome in your project to actually see the icon. This directive does not have jQuery has a dependency. 
 
 install
 -------
